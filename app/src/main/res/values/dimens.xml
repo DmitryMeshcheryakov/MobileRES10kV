@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset_micro">4dp</dimen>
+    <dimen name="offset_small">8dp</dimen>
+    <dimen name="offset_small_m">12dp</dimen>
+    <dimen name="offset_medium">16dp</dimen>
+    <dimen name="offset_large">32dp</dimen>
+
+    <dimen name="font_size_micro">12sp</dimen>
+    <dimen name="font_size_small">14sp</dimen>
+    <dimen name="font_size_medium">18sp</dimen>
+    <dimen name="font_size_large">24sp</dimen>
+
+    <dimen name="divider_height_large">1dp</dimen>
+    <dimen name="divider_height_small">0.5dp</dimen>
+
+    <dimen name="corner_radius_small">3dp</dimen>
+    <dimen name="corner_radius_medium">10dp</dimen>
+    <dimen name="corner_radius_large">25dp</dimen>
+
+    <dimen name="stroke_width">2dp</dimen>
+    <dimen name="toolbar_size">56dp</dimen>
+    <dimen name="animation_duration">300</dimen>
+
+    <dimen name="chevron_size">20dp</dimen>
+
+    <dimen name="circle_image_size_large">122dp</dimen>
+    <dimen name="circle_image_size">90dp</dimen>
+    <dimen name="circle_image_size_small">50dp</dimen>
+</resources>
